@@ -1,0 +1,9 @@
+﻿  Application.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 229 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+glew32s.lib(glew.obj) : warning LNK4099: PDB '' was not found with 'glew32s.lib(glew.obj)' or at ''; linking object as if no debug info
+  c++openglLearn.vcxproj -> C:\Testes\Dev\c++proj\c++openglLearn\x64\Release\c++openglLearn.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
